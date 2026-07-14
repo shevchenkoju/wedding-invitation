@@ -2535,10 +2535,10 @@ button{
 }
 
 .countdown-text{
-    max-width:330px;
-    margin:0 auto 70px;
-    font-size:22px;
-    line-height:1.6;
+    max-width:350px;
+    margin:0 auto 45px;
+    font-size:26px;
+    line-height:1.5;
 }
 
 .timer{
@@ -2546,7 +2546,7 @@ button{
     justify-content:center;
     align-items:flex-start;
     flex-wrap:wrap;
-    gap:22px;
+    gap:10px;
 }
 
 .time-box{
@@ -2554,7 +2554,7 @@ button{
 }
 
 .time-box span{
-    font-size:88px;
+    font-size:96px;
 }
 
 .time-box small{
