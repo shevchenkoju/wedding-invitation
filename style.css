@@ -2442,3 +2442,22 @@ radial-gradient(circle at 50% 35%,
     }
 
 }
+/* ===========================
+   MOBILE VERSION
+=========================== */
+
+@media (max-width:768px){
+
+html{
+overflow-x:hidden;
+}
+
+body{
+overflow-x:hidden;
+}
+
+section{
+padding:80px 25px;
+}
+
+}
