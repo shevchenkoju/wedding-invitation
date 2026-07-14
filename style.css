@@ -2566,6 +2566,36 @@ button{
 .timer-star{
     display:none;
 }
+.wedding-date{
+    flex-wrap:nowrap;
+}
 
+.wedding-date span{
+    font-size:48px;
+}
+
+.countdown{
+    min-height:auto;
+}
+
+.countdown-content{
+    width:100%;
+}
+
+.time-box{
+    width:100%;
+}
+
+.time-box span{
+    line-height:1;
+}
+
+.time-box small{
+    margin-top:8px;
+}
+
+.countdown{
+    padding-bottom:110px;
+}
 }
 
