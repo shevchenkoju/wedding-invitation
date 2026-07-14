@@ -2642,3 +2642,7 @@ button{
    .timeline-item.right .timeline-card h3{
     margin-left:24px;
 }
+   .rsvp .section-title{
+    font-size:72px;
+    line-height:1.1;
+}
