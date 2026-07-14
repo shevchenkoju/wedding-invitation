@@ -2514,6 +2514,55 @@ button{
     width:100%;
     padding:0 20px;
 }
+@media (max-width:768px){
+
+.wedding-date{
+    gap:14px;
+    margin-bottom:35px;
+}
+
+.wedding-date span{
+    font-size:56px;
+}
+
+.dot{
+    width:7px;
+    height:7px;
+}
+
+.countdown{
+    padding:90px 20px;
+}
+
+.countdown-text{
+    font-size:22px;
+    line-height:1.5;
+    margin:0 auto 50px;
+}
+
+.timer{
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:35px 20px;
+    justify-items:center;
+}
+
+.time-box{
+    min-width:auto;
+}
+
+.time-box span{
+    font-size:72px;
+}
+
+.time-box small{
+    font-size:15px;
+    letter-spacing:2px;
+}
+
+.timer-star{
+    display:none;
+}
 
 }
 }
