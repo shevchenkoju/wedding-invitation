@@ -2459,5 +2459,25 @@ overflow-x:hidden;
 section{
 padding:80px 25px;
 }
+   .hero-title{
+    font-size:58px;
+    line-height:1.05;
+}
+
+.hero-date{
+    font-size:26px;
+}
+
+.hero-button{
+    width:90%;
+    max-width:340px;
+    margin:35px auto 0;
+}
+
+.hero-content{
+    width:100%;
+    padding:0 20px;
+    box-sizing:border-box;
+}
 
 }
