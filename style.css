@@ -398,7 +398,8 @@ transform:translateY(0);
 }
 @media (max-width:768px){
 .child-title{font-size:42px;}
-.child-scene{height:640px;}
+.child-scene{height:auto;}
+.childhood{overflow:visible;}
 .child{position:static;transform:none!important;margin:0 auto 30px;}
 .child-left,.child-right{left:auto;right:auto;}
 .heart{position:static;transform:none;margin:20px 0;text-align:center;}
