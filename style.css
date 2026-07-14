@@ -2516,50 +2516,49 @@ button{
 }
 @media (max-width:768px){
 
+.countdown{
+    padding:100px 20px;
+}
+
 .wedding-date{
-    gap:14px;
-    margin-bottom:35px;
+    gap:16px;
+    margin-bottom:45px;
 }
 
 .wedding-date span{
-    font-size:56px;
+    font-size:60px;
 }
 
 .dot{
-    width:7px;
-    height:7px;
+    width:8px;
+    height:8px;
 }
-
-.countdown{
-    padding:90px 20px;
-}
-
 
 .countdown-text{
-    max-width:320px;
-    font-size:20px;
-    line-height:1.7;
-    margin:0 auto 55px;
+    max-width:330px;
+    margin:0 auto 70px;
+    font-size:22px;
+    line-height:1.6;
 }
 
 .timer{
-    display:grid;
-    grid-template-columns:repeat(2,1fr);
-    gap:45px 15px;
-    justify-items:center;
-    max-width:360px;
-    margin:0 auto;
+    display:flex;
+    justify-content:center;
+    align-items:flex-start;
+    flex-wrap:wrap;
+    gap:22px;
 }
 
 .time-box{
-    min-width:auto;
+    min-width:135px;
 }
 
 .time-box span{
-    font-size:82px;
+    font-size:88px;
 }
 
 .time-box small{
+    margin-top:10px;
     font-size:16px;
     letter-spacing:3px;
 }
@@ -2569,4 +2568,3 @@ button{
 }
 
 }
-
