@@ -2639,3 +2639,6 @@ button{
 .timeline-item.show.right::after{
     width:36px;
 }
+   .timeline-item.right .timeline-card h3{
+    margin-left:18px;
+}
