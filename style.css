@@ -1671,7 +1671,7 @@ radial-gradient(circle at 50% 35%,
 
     text-align:left;
 
-    padding-left:45px;
+    padding-left:28px;
 }
 
 .timeline-card h3{
@@ -1822,7 +1822,7 @@ radial-gradient(circle at 50% 35%,
 }
 
 .timeline-item.show.right::after{
-    width:61px;
+    width:42px;
 }
 /* ==========================
             RSVP
