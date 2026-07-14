@@ -2531,8 +2531,9 @@ button{
 }
 
 .countdown{
-    padding:60px 20px 90px;
+    padding:90px 20px;
 }
+
 
 .countdown-text{
     max-width:320px;
