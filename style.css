@@ -2546,11 +2546,11 @@ button{
     justify-content:center;
     align-items:flex-start;
     flex-wrap:wrap;
-    gap:10px;
+    gap:35px;
 }
 
 .time-box{
-    min-width:135px;
+    min-width:145px;
 }
 
 .time-box span{
