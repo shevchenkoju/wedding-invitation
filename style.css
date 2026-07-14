@@ -2566,8 +2566,6 @@ button{
 .timer-star{
     display:none;
 }
-
-}
    .dress-wrapper{
     display:flex;
     flex-direction:column;
@@ -2599,3 +2597,4 @@ button{
 .fabric-row-bottom{
     margin-top:18px;
 }
+   }
