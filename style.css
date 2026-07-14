@@ -2552,12 +2552,12 @@ button{
 }
 
 .time-box span{
-    font-size:72px;
+    font-size:82px;
 }
 
 .time-box small{
-    font-size:15px;
-    letter-spacing:2px;
+    font-size:16px;
+    letter-spacing:3px;
 }
 
 .timer-star{
