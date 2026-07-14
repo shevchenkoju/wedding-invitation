@@ -2613,7 +2613,7 @@ button{
 }
 
 .timeline-card{
-    width:40%;
+    width:44%;
 }
 
 .timeline-card h3{
@@ -2629,7 +2629,10 @@ button{
 }
 
 .timeline-item.right .timeline-card{
-    padding-left:28px;
+    padding-left:18px;
+}
+   .timeline-item.right{
+    padding-right:18px;
 }
 
 .timeline-item.show.left::after,
